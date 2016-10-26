@@ -1,4 +1,4 @@
-import 'isomorphic-fetch';
+import 'whatwg-fetch';
 import reduxApi from 'redux-api';
 import adapterFetch from 'redux-api/lib/adapters/fetch';
 import transformer from './utils/transformer';
