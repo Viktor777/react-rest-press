@@ -1,0 +1,36 @@
+{
+  "name": "react-rest-press",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viktor777/react-rest-press.git"
+  },
+  "keywords": [
+    "react",
+    "wordpress",
+    "wp",
+    "rest",
+    "api",
+    "redux",
+    "store",
+    "storage"
+  ],
+  "author": "Viktor Kuliebiakin <viktorkulebyakin@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Viktor777/react-rest-press/issues"
+  },
+  "homepage": "https://github.com/Viktor777/react-rest-press#readme",
+  "dependencies": {
+    "hoist-non-react-statics": "^1.2.0",
+    "react": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "redux-api": "^0.9.13",
+    "whatwg-fetch": "^1.0.0"
+  }
+}
