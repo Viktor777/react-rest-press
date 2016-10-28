@@ -1,6 +1,6 @@
-import rest from '../../../api/rest';
+import rest from '../../rest';
 import cache from './cache';
-import update from 'react-addons-update';
+import update from 'immutability-helper';
 import {ADD} from '../actions/store';
 import transformer from '../../utils/transformer';
 

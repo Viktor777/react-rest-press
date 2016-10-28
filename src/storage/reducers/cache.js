@@ -1,5 +1,5 @@
 import {ADD} from '../actions/cache';
-import update from 'react-addons-update';
+import update from 'immutability-helper';
 
 export default (state = {}, {
     type,
