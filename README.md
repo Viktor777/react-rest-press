@@ -2,11 +2,11 @@
 
 ## Demo
 
-React Rest Press(http://react-rest-press.herokuapp.com/)
+[React Rest Press](http://react-rest-press.herokuapp.com/)
 
 ## Example
 
-Theme on Github(https://github.com/Viktor777/wp-api-react-example/)
+[Theme on Github](https://github.com/Viktor777/wp-api-react-example/)
 
 More coming soon...
 
